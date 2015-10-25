@@ -1,0 +1,9 @@
+[submodule "org.apache.felix.parent"]
+	path = org.apache.felix.parent
+	url = https://github.com/snefru/org.apache.felix.parent.git
+[submodule "org.apache.felix.framework"]
+	path = org.apache.felix.framework
+	url = https://github.com/snefru/org.apache.felix.framework.git
+[submodule "org.apache.felix.main"]
+	path = org.apache.felix.main
+	url = https://github.com/snefru/org.apache.felix.main.git
