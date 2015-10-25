@@ -11,5 +11,6 @@
         <module>org.apache.felix.resolver</module>
         <module>org.apache.felix.framework</module>
         <module>org.apache.felix.main</module>
+        <module>org.apache.felix.scr</module>
     </modules>
 </project>

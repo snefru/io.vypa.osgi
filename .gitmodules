@@ -10,3 +10,6 @@
 [submodule "org.apache.felix.resolver"]
 	path = org.apache.felix.resolver
 	url = https://github.com/snefru/org.apache.felix.resolver.git
+[submodule "org.apache.felix.scr"]
+	path = org.apache.felix.scr
+	url = https://github.com/snefru/org.apache.felix.scr.git
