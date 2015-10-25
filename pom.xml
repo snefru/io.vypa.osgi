@@ -8,6 +8,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
+        <module>org.apache.felix.resolver</module>
         <module>org.apache.felix.framework</module>
         <module>org.apache.felix.main</module>
     </modules>
