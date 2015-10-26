@@ -1,15 +1,20 @@
 [submodule "org.apache.felix.parent"]
 	path = org.apache.felix.parent
 	url = https://github.com/snefru/org.apache.felix.parent.git
+	branch = master
 [submodule "org.apache.felix.framework"]
 	path = org.apache.felix.framework
 	url = https://github.com/snefru/org.apache.felix.framework.git
+	branch = master
 [submodule "org.apache.felix.main"]
 	path = org.apache.felix.main
 	url = https://github.com/snefru/org.apache.felix.main.git
+	branch = master
 [submodule "org.apache.felix.resolver"]
 	path = org.apache.felix.resolver
 	url = https://github.com/snefru/org.apache.felix.resolver.git
+	branch = master
 [submodule "org.apache.felix.scr"]
 	path = org.apache.felix.scr
 	url = https://github.com/snefru/org.apache.felix.scr.git
+	branch = master
