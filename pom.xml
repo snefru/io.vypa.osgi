@@ -7,10 +7,15 @@
     <artifactId>io.vypa.osgi</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+    <name>Vypa Minimal OSGi</name>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
     <modules>
         <module>org.apache.felix.resolver</module>
         <module>org.apache.felix.framework</module>
         <module>org.apache.felix.main</module>
         <module>org.apache.felix.scr</module>
+        <module>io.vypa.osgi.distribution</module>
     </modules>
 </project>

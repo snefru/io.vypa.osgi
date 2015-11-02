@@ -18,3 +18,6 @@
 	path = org.apache.felix.scr
 	url = https://github.com/snefru/org.apache.felix.scr.git
 	branch = master
+[submodule "io.vypa.osgi.distribution"]
+	path = io.vypa.osgi.distribution
+	url = https://github.com/snefru/io.vypa.osgi.distribution.git
